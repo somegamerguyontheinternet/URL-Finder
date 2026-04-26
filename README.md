@@ -9,7 +9,7 @@ Make sure it does not need a proper reader like Lua and is **100% TEXT**
 
 # Step 2.
 
-Download the URL finder script and put it in the root folder of the source code.
+Download the URL finder scripts and put it in the root folder of the source code.
 
 # Step 3.
 

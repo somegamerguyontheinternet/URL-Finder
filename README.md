@@ -17,8 +17,8 @@ I am **NOT** a windows publisher, just a little developer. This means you will n
 
 # Step 4.
 
-Read through the extracted URLS list in the console or the newly places text (TXT) file at the place you executed the script (root).
+Read through the extracted URLS list in the console or the newly placed text (TXT) file at the place you executed the script, as it generated a text file containing all the found URLs.
 
 # Step 5.
 
-Congrats! You now have all the URLS from any project to use in your own! Use them however you like, as long as it is ok with the developers.
+Congrats! You now have all the URLS from any project to use in your own! Use them however you like, as long as it is ok with the developers of the project you extracted the URLs from.

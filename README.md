@@ -5,7 +5,7 @@ Find URLS in any open sourced project without needing to dig through all the fil
 
 Make sure your projects source code is using text based code like C#, C++, Java Script, Java, ect.
 
-Make sure it does not need a proper reader like Lua and is **100% TEXT**
+Make sure it does not need a proper reader like Lua and is **100% BASIC TEXT**
 
 # Step 2.
 
